@@ -4,6 +4,14 @@
 
 ### Installation
 
+#### Install with Composer:
+
+```bash
+composer create-project maratib/wp-theme my-theme
+```
+
+#### Manual Installation:
+
 ```bash
 git clone https://github.com/maratib/wp-theme.git
 cd wp-theme
