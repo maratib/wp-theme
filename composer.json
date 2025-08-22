@@ -1,0 +1,13 @@
+{
+  "name": "maratib/wp-theme",
+  "description": "WP-Theme",
+  "keywords": [
+    "FSE/Block theme"
+  ],
+  "authors": [
+    {
+      "name": "wp-theme",
+      "homepage": "https://wp-theme.github.io/wp-theme"
+    }
+  ]
+}
